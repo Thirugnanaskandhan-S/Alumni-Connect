@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19347336687",
+    "project_id": "aluminiconnect-d99ca",
+    "storage_bucket": "aluminiconnect-d99ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19347336687:android:5b771c1b46283b8ae75a1a",
+        "android_client_info": {
+          "package_name": "com.example.alumini_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19347336687-8r0uumg99fptg27tjo2ts2sgo8qo88mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRGuruJoJ0ITncmx8qyoJWISsJl2v4_4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19347336687-8r0uumg99fptg27tjo2ts2sgo8qo88mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
